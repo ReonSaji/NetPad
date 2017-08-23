@@ -1,4 +1,4 @@
-// Include useful dependenc
+// Include useful Dependencies
 
 
 // FileSaver.js - https://github.com/eligrey/FileSaver.js
